@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://mixi-doctor.netlify.app"
+  status = 200
